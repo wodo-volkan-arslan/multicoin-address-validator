@@ -1,4 +1,5 @@
 'use strict';
+global.Buffer = require('buffer').Buffer;
 
 /**
  * Credits to https://github.com/cryptocoinjs/blake-hash
